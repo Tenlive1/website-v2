@@ -1,4 +1,3 @@
-# website-v2
 
 11/07/21 learning about git and why it is important
 
