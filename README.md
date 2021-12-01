@@ -17,3 +17,7 @@
 -figured out how to save my code and upload the code to github by using my ide (visual studio) <br />
 -the reason why it wasn't updating my code was because i didn't save my code to my file which won't let the git to upload it to github <br />
 -and the next thing i test was how long github take to update the website from the looks of it takes about 2-5 min to update the website <br />
+
+12/1/2021 1:47am
+- when doing switching computer you need to do a git pull to update the code or update a brench
+- need more testing
