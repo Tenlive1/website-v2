@@ -9,7 +9,7 @@
 -cd .. to go back ward <br />
 -dir to see the file <br />
 -in visual studio when doing a repustor basical a save file won't show it but it's there will light up green <br />
--to nake one you need to do git init <br />
+-to make one you need to do git init <br />
 -git add will put it in a staging stag <br />
 -git add . will add all file finish video 6 <br />
 
