@@ -24,3 +24,6 @@
 - if there's an error in which it said everything is up to date and it isn't please use git commit -m initialcommit than do git push origin main to push through github
 - git checkout -b "name" is how you make different brench so that you can mess around with, without affecting the other code / website
 - git commit -m "name" will solve everything
+- have made a link in which it can go to differnt part of my website
+- by making a new html file and connecting it with a:link which will look like this
+- a href="prevous link + new one">"name for the link"</ a
