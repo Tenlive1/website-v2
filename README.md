@@ -27,3 +27,5 @@
 - have made a link in which it can go to differnt part of my website
 - by making a new html file and connecting it with a:link which will look like this
 - a href="prevous link + new one">"name for the link"</ a
+- you can do git switch to move around brench
+- once you do that and do a git pull you can update your code from github
