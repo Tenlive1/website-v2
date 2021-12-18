@@ -21,7 +21,10 @@
 12/1/2021 1:47am
 - when doing switching computer you need to do a git pull to update the code or update a brench
 - need more testing
-- if there's an error in which it said everything is up to date and it isn't please use git commit -m initialcommit than do git push origin main to push through github
+- if there's an error in which it said everything is up to date and it isn't please use
+* git commit -m initialcommit
+- than do 
+* git push origin main to push through github
 - git checkout -b "name" is how you make different brench so that you can mess around with, without affecting the other code / website
 - git commit -m "name" will solve everything
 - have made a link in which it can go to differnt part of my website
